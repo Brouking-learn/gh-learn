@@ -1,0 +1,11 @@
+[33mcommit 75db4633cfdd2a2401b2e27407e69ab734840b0c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ray <brorayan628@gmail.com>
+Date:   Sat Sep 26 15:32:21 2026 +0000
+
+    fix: remove nested git repo
+
+ README.md |  7 [32m+++++++[m
+ gh-learn  |  1 [32m+[m
+ key       | 39 [32m+++++++++++++++++++++++++++++++++++++++[m
+ key.pub   |  1 [32m+[m
+ 4 files changed, 48 insertions(+)

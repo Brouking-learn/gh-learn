@@ -5,5 +5,6 @@ gh preparation
 ```
 to do that: ssh-keygen -t rsa
 
-open the file where that key is saved, then add the key, and i believe then we can actually git clone link from github
+open the file where that key is saved, then add the key
+and i believe then we can actually git clone link from github
 ```
